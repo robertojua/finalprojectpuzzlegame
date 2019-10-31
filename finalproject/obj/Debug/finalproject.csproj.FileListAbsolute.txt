@@ -1,0 +1,9 @@
+\\ghs-file1.lvjusd.k12.ca.us\student data\angel.san\my documents\visual studio 2015\Projects\finalproject\finalproject\bin\Debug\finalproject.exe.config
+\\ghs-file1.lvjusd.k12.ca.us\student data\angel.san\my documents\visual studio 2015\Projects\finalproject\finalproject\bin\Debug\finalproject.exe
+\\ghs-file1.lvjusd.k12.ca.us\student data\angel.san\my documents\visual studio 2015\Projects\finalproject\finalproject\bin\Debug\finalproject.pdb
+\\ghs-file1.lvjusd.k12.ca.us\student data\angel.san\my documents\visual studio 2015\Projects\finalproject\finalproject\obj\Debug\finalproject.Form1.resources
+\\ghs-file1.lvjusd.k12.ca.us\student data\angel.san\my documents\visual studio 2015\Projects\finalproject\finalproject\obj\Debug\finalproject.Properties.Resources.resources
+\\ghs-file1.lvjusd.k12.ca.us\student data\angel.san\my documents\visual studio 2015\Projects\finalproject\finalproject\obj\Debug\finalproject.csproj.GenerateResource.Cache
+\\ghs-file1.lvjusd.k12.ca.us\student data\angel.san\my documents\visual studio 2015\Projects\finalproject\finalproject\obj\Debug\finalproject.exe
+\\ghs-file1.lvjusd.k12.ca.us\student data\angel.san\my documents\visual studio 2015\Projects\finalproject\finalproject\obj\Debug\finalproject.pdb
+\\ghs-file1.lvjusd.k12.ca.us\student data\angel.san\My Documents\Visual Studio 2015\Projects\finalproject\finalproject\obj\Debug\finalproject.csprojResolveAssemblyReference.cache
